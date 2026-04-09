@@ -1,5 +1,5 @@
 
-# 📊 Online Sports Analysis Dashboard
+# 📊 Online Sports Analysis
 
 ## 🔍 Project Overview
 
